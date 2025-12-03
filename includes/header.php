@@ -11,7 +11,9 @@
                 <span class="logo-text">Crumbly Co.</span>
             </div>
             <ul class="nav-links">
-                <li><a href="index.php" class="active">Home</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="products.php">Products</a></li>
+                <li><a href="stocks.php">Stocks</a></li>
             </ul>
         </div>
     </nav>
